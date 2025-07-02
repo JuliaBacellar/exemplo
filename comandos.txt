@@ -1,0 +1,6 @@
+pip install langchain_community faiss-cpu  huggingface-hub
+
+pip install ctransformers langchain_community faiss-cpu
+
+
+llama-cpp-python- deprecaciado
